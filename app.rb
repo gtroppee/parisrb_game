@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
 require "yaml"
 require "ostruct"
-require_relative "main"
+require_relative "node"
+require_relative "player"
+require_relative "utilities"
 
 class TestClass < OpenStruct
   def print_open_value

@@ -1,0 +1,6 @@
+--- !ruby/object:Node
+table:
+  :parent: 
+  :tag: :root
+  :children: []
+modifiable: true
